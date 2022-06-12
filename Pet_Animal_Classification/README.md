@@ -88,7 +88,7 @@ print("Our model says it is a :", pred)
 
 **CLICK ON BELOW IMAGE**
 
-[![IMAGE_ALT](https://user-images.githubusercontent.com/65896248/172110385-d69e078e-a364-4af6-b42c-4d439a0371e0.png)]()
+
 
 
 
